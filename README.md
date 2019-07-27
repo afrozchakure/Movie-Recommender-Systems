@@ -1,14 +1,9 @@
 # Recommeder_Systems
 
-Team Members :
-1. Avadhesh Yadav
-2. Himanshu Rathore
-3. Sahil Jagotra
-4. Afroz Chakure 
-
-Two Recommenders have been made :
+Three Recommenders have been made :
 1. Simple Recommender 
 2. Content-Based Recommmender
+3. Demograhic Recommender System
 
 Link to dataset (228 MB):
 
