@@ -1,6 +1,6 @@
-# Recommeder_Systems
+### Recommeder_Systems
 
-Three Recommenders have been made :
+### Three Recommenders have been made :
 1. Simple Recommender (Popularity Based)
 2. Content-Based Recommmender
 3. Demograhic Recommender System
@@ -23,5 +23,11 @@ https://www.kaggle.com/rounakbanik/the-movies-dataset/downloads/the-movies-datas
 
 
 </ol>
+
+
+### Git clone the repo to your local system
+``
+git clone https://github.com/afrozchakure/Movie-Recommender-Systems.git
+``
 
   
