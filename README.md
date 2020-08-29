@@ -3,6 +3,9 @@
 [![GitHub license](https://img.shields.io/github/license/afrozchakure/Movie-Recommender-Systems?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Movie-Recommender-Systems/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Movie-Recommender-Systems?color=orange&style=for-the-badge)](https://github.com/afrozchakure/Movie-Recommender-Systems/network)
 [![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Movie-Recommender-Systems?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/afrozchakure/Movie-Recommender-Systems?color=yellowgreen&style=for-the-badge)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/afrozchakure/Movie-Recommender-Systems?color=red&style=for-the-badge)](https://badges.pufler.dev)
+
 
 
 ### Three Recommenders have been made :
