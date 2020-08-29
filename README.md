@@ -1,4 +1,9 @@
 ### Recommeder_Systems
+[![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Movie-Recommender-Systems?color=green&style=for-the-badge)](https://github.com/afrozchakure/Movie-Recommender-Systems/stargazers)
+[![GitHub license](https://img.shields.io/github/license/afrozchakure/Movie-Recommender-Systems?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Movie-Recommender-Systems/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Movie-Recommender-Systems?color=orange&style=for-the-badge)](https://github.com/afrozchakure/Movie-Recommender-Systems/network)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Movie-Recommender-Systems?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
+
 
 ### Three Recommenders have been made :
 1. Simple Recommender (Popularity Based)
